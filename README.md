@@ -14,6 +14,8 @@
 > শুধু উপরের লিংক থেকে ডাউনলোড করুন। "Source code" ফাইলগুলো প্লাগইন নয়।
 > Download only the link above — the "Source code" files on the releases page are not the plugin.
 
+🎙️ **নতুন / New:** [Graphics Voice-over](https://github.com/ocpabdurrahim/graphics-voice-over) — অনুবাদ করা ক্যাপশন থেকে AI ভয়েস-ওভার / AI voice-over from your translated captions.
+
 ---
 
 ## বাংলা
